@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "lens",
+  "version": "${version}",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+
+  "name": "Lens",
+  "description": "Change the FOV on the go! And it will be configurable also.",
+  "authors": [
+    "Shateq"
+  ],
+  "contact": {
+    "homepage": "https://github.com/shateq/lens/",
+    "sources": "https://github.com/shateq/lens/"
+  },
+  
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "shateq.mods.fabric.lens.LensClient"
+    ]
+  },
+  "mixins": [],
+  
+  "depends": {
+    "fabricloader": ">=0.12",
+    "fabric": "*",
+    "minecraft": "1.18.x"
+  }
+}
