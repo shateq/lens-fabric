@@ -1,4 +1,6 @@
 {
+  "command.lens.fov": "Your FOV is now: %s",
+  "gui.lens.text": "Detailed info about your lens...",
   "key.lens.menu": "FOV Selector",
   "category.lens": "Photographic Lens"
 }
