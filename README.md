@@ -10,7 +10,8 @@ Modification that ~~allows~~ will someday allow you to tweak your camera in Mine
 - White balance
 </details>
 <br>
-<img href=".github/api.png" alt="Requires Fabric API" />
+
+<img src=".github/api.png" alt="Requires Fabric API" width="256" />
 
 ## Download [![Build](https://github.com/shateq/lens-fabric/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/shateq/lens-fabric/actions/workflows/build.yml)
 ... Links
