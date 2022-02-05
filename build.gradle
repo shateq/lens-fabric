@@ -1,11 +1,11 @@
 plugins {
-	id("fabric-loom") version "0.10.+"
+	id("fabric-loom") version "0.11.+"
 	id("maven-publish")
 }
 
 version = "1.0.0"
 group = "shateq.mods"
-archivesBaseName = "lens-fabric-${project.minecraft}-${project.version}"
+archivesBaseName = "lens-fabric-${project.mc}-${project.version}"
 
 repositories {
 	mavenCentral()
